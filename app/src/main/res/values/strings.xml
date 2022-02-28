@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diceroll</string>
+    <string name="rolltext">Roll</string>
+    <string name="LabelNama">Masukan namamu :</string>
+    <string name="NameButton">Input</string>
+    <string name="HasilResult">Result</string>
+    <string name="result">result</string>
+</resources>
